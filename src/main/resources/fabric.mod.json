@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "nbmod",
+  "version": "${version}",
+  "name": "NbMod",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/NbMod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "nbmod.ksmcbrigade.client.KsmcbrigadeClient"
+    ],
+    "main": [
+      "nbmod.ksmcbrigade.Ksmcbrigade"
+    ]
+  },
+  "mixins": [
+    "NbMod.mixins.json",
+    "armor.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.12",
+    "fabric": "*",
+    "minecraft": "1.19.3"
+  }
+}

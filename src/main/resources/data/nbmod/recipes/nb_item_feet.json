@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "121",
+    "111"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:dragon_egg"
+    },
+    "2": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "nbmod:nb_feet",
+    "count": 1
+  }
+}

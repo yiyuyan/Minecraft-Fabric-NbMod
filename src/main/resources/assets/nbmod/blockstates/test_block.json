@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "nbmod:block/test_block" }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "nbmod:item/nb_item_axe"
+  }
+}

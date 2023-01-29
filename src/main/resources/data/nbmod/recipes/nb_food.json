@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:dragon_egg"
+    }
+  },
+  "result": {
+    "item": "nbmod:nb_food",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "item.nbmod.test_item": "测试物品",
+  "item.nbmod.nb_item": "十分NB的剑",
+  "item.nbmod.nb_item_axe": "十分NB的斧子",
+  "item.nbmod.nb_item_pickaxe": "十分NB的稿子",
+  "item.nbmod.nb_item_shovel": "十分NB的铲子",
+  "item.nbmod.nb_food": "十分NB的食物",
+  "item.nbmod.nb_helmet": "十分NB的头盔",
+  "item.nbmod.nb_chest": "十分NB的胸甲",
+  "item.nbmod.nb_legs": "十分NB的护腿",
+  "item.nbmod.nb_feet": "十分NB的鞋",
+  "item.nbmod.nb_item_random": "随机获得物品",
+  "item.nbmod.nb_blue_screen_food": "蓝屏面包",
+  "item.nbmod.nb_del_saves_food": "存档崩溃面包",
+  "item.nbmod.fly_helmet": "飞行头盔",
+  "item.nbmod.fly_chest": "飞行胸甲",
+  "item.nbmod.fly_legs": "飞行护腿",
+  "item.nbmod.fly_feet": "飞行鞋",
+  "item.nbmod.water_feet": "水鞋",
+  "block.nbmod.test_block": "测试方块",
+  "itemGroup.nbmod.nb_group": "nb模组物品"
+}
